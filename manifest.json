@@ -1,0 +1,26 @@
+{
+  "name": "Piloto — Financeiro no automático",
+  "short_name": "Piloto",
+  "description": "Controle financeiro pessoal simples e direto, pensado pra quem não quer preencher planilha.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F1B2A",
+  "theme_color": "#0F1B2A",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
